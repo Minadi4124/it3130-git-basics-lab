@@ -6,3 +6,6 @@ This repository demonstrates a basic Git workflow for IT3130.
 - README.md: project documentation
 ## Commands practised
 git init, git status, git add, git diff, git commit, git log, git remote, git push
+
+## What I learned
+During this practical, I learned how to track file changes using the staging area and record them permanently with meaningful commit messages. I also learned how to securely connect a local repository to a remote repository on GitHub and push the codebase using Git branches.
